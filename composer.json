@@ -1,5 +1,5 @@
 {
-    "name": "em_survey/mypackagesurvey5",
+    "name": "em_survey/mypackagesurvey6",
     "description": "This is survey for surveybuilders",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     }, 
      "require": {
-        "em_survey/mypackagesurvey5": "dev-main"
+        "em_survey/mypackagesurvey6": "dev-main"
     },
 "repositories": [
        {
