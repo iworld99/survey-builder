@@ -15,17 +15,6 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ],  
-    "minimum-stability": "dev"
- {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/em-naiyar/survey-builder"
-        }
-    ],
-    "require": {
-        "em_survey/mypackagesurvey5": "dev-main"
-    }
-}
+    "minimum-stability": "dev",
 
 }
