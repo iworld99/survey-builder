@@ -1,0 +1,28 @@
+{
+    "name": "em_survey/mypackagesurvey4",
+    "description": "This is survey for surveybuilders",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Surveybuilders\\Survey\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naiyar",
+            "email": "naiyar@enterpisemonkey.com"
+        }
+    ], 
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/em-naiyar/survey-builder-package"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    "em_survey/mypackagesurvey4": "dev-main"
+}
+}
