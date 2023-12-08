@@ -12,7 +12,12 @@
      "require": {
         "em_survey/mypackagesurvey6": "dev-main"
     },
-
+        "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:neckmadash/signu.git"
+        }
+    ],
     "authors": [
         {
             "name": "Naiyar",
