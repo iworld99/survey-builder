@@ -15,7 +15,7 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ],  
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
  {
     "repositories": [
         {
