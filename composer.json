@@ -18,6 +18,13 @@
             "url": "https://github.com/em-naiyar/survey-builder-package.git"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Surveybuilders\\Survey\\SurveybuilderServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Naiyar",
