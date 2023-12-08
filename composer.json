@@ -12,12 +12,6 @@
      "require": {
         "em_survey/mypackagesurvey6": "dev-main"
     },
-"repositories": [
-       {
-            "type": "git",
-            "url": "https://github.com/em-naiyar/survey-builder-package.git"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
