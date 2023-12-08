@@ -8,13 +8,7 @@
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
         }
-    },
-     "repositories": [
-       {
-            "type": "git",
-            "url": "https://github.com/em-naiyar/survey-builder.git"
-        }
-    ],
+    },    
     "authors": [
         {
             "name": "Naiyar",
@@ -22,7 +16,16 @@
         }
     ],  
     "minimum-stability": "dev",
+ {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/em-naiyar/survey-builder"
+        }
+    ],
     "require": {
-    "em_survey/mypackagesurvey5": "dev-main"
+        "em_survey/mypackagesurvey5": "dev-main"
+    }
 }
+
 }
