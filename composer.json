@@ -10,7 +10,7 @@
         }
     }, 
      "require": {
-        "em-naiyar/survey-builder": "dev-main"
+        "em_survey/mypackagesurvey5": "dev-main"
     },
 
     "authors": [
