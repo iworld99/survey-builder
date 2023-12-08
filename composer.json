@@ -10,9 +10,14 @@
         }
     }, 
      "require": {
-        "em_survey/mypackagesurvey5": "main"
+        "em_survey/mypackagesurvey5": "dev-main"
     },
-
+"repositories": [
+       {
+            "type": "vcs",
+            "url": "https://github.com/em-naiyar/survey-builder-package.git"
+        }
+    ],
     "authors": [
         {
             "name": "Naiyar",
