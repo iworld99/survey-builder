@@ -12,13 +12,7 @@
      "require": {
         "em_survey/mypackagesurvey6": "dev-main"
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Surveybuilders\\Survey\\SurveybuilderServiceProvider"
-            ]
-        }
-    },
+
     "authors": [
         {
             "name": "Naiyar",
