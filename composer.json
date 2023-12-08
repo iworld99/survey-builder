@@ -19,10 +19,11 @@
         {
             "type": "vcs",
             "url": "https://github.com/em-naiyar/survey-builder"
-        }
-    ],
-    "require": {
+        },
+         "require": {
     "em_survey/mypackagesurvey6": "dev-main"
 }
+    ]
+   
    
 }
