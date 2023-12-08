@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/em-naiyar/survey-builder"
+            "url": "https://github.com/em-naiyar/survey-builder.git"
         }
     ],
     "require": {
