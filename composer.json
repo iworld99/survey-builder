@@ -9,6 +9,12 @@
             "Surveybuilders\\Survey\\": "src/"
         }
     },
+     "repositories": [
+       {
+            "type": "git",
+            "url": "https://github.com/em-naiyar/survey-builder.git"
+        }
+    ],
     "authors": [
         {
             "name": "Naiyar",
