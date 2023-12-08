@@ -8,12 +8,11 @@
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
         }
-    },   
-    {
-    "require": {
+    }, 
+     "require": {
         "em_survey/mypackagesurvey5": "dev-main"
-    }
-},
+    },
+
     "authors": [
         {
             "name": "Naiyar",
