@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-    "em_survey/mypackagesurvey6": "dev-main"
+    "em_survey/mypackagesurvey6": "main"
 }
    
 }
