@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/em-naiyar/survey-builder-package"
+            "url": "https://github.com/em-naiyar/survey-builder"
         }
     ],
     "minimum-stability": "dev",
