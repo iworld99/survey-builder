@@ -15,7 +15,7 @@
         "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:neckmadash/signu.git"
+            "url": "git@github.com:em-naiyar/survey-builder.git"
         }
     ],
     "authors": [
