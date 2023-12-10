@@ -22,7 +22,7 @@
             "url": "https://github.com/em-naiyar/survey-builder.git"
         }
     ],
-    "require": {
-        "em_survey/mypackagesurvey6": "dev-main"
+     "require": {
+        "php": ">=7.4"
     }
 }
