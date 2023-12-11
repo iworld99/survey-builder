@@ -1,6 +1,5 @@
 {
-    "name": "em_survey/mysurvey",  
-    "version": "1.0.0.0",
+    "name": "em_survey/mysurvey",     
     "type": "library",
     "license": "MIT",   
     "autoload": {
