@@ -12,13 +12,8 @@
             "name": "Naiyar",
             "email": "naiyar@enterpisemonkey.com"
         }
-    ],   
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/iworld99/survey-builder.git"
-        }
-    ],
+    ],  
+ 
      "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {       
