@@ -1,8 +1,7 @@
 {
     "name": "em_survey/mysurvey",     
     "type": "library",
-    "license": "MIT",  
-    "version": "1.0.0.0",
+    "license": "MIT",     
     "autoload": {
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
@@ -14,6 +13,9 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ], 
-     "minimum-stability": "stable"
+     "minimum-stability": "dev",
+    "require": {
+        "em_survey/mysurvey": "dev-main"
+    }
    
 }
