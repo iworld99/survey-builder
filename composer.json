@@ -13,9 +13,6 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ], 
-     "minimum-stability": "stable",
-    "require": {
-        "em_survey/mysurvey": "dev-main"
-    }
+     "minimum-stability": "dev"   
    
 }
