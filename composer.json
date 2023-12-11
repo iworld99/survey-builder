@@ -3,7 +3,7 @@
     "description": "Description of mypackagesurvey7",
      "type": "composer-plugin",
     "license": "MIT",
-    "version": "v.1.0.0",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
