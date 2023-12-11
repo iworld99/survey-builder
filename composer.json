@@ -22,7 +22,7 @@
      "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {       
-       "em_survey/mysurvey": "1.0.0.0*@dev"
+       "em_survey/mysurvey": "dev-main"
     }
    
 }
