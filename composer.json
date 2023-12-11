@@ -13,6 +13,23 @@
             "email": "naiyar@enterpisemonkey.com"
         }
     ], 
-     "minimum-stability": "dev"   
+      "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/em-naiyar/survey-builder-package"
+        }
+    ],
+     "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Akash\\LaravelUniqueSlug\\UniqueSlugServiceProvider"
+            ]
+         
+        }
+    }
    
 }
