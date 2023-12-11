@@ -1,5 +1,5 @@
 {
-    "name": "em_survey/mysurvey",     
+    "name": "surveybuilders\survey",     
     "type": "library",
     "license": "MIT",   
      "version": "1.0.0.0",
@@ -22,7 +22,7 @@
     ],
      "minimum-stability": "dev",
     "require": {
-        "em_survey/mysurvey": "dev-main"
+        "surveybuilders\survey": "dev-main"
     }
    
 }
