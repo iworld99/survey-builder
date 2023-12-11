@@ -20,8 +20,6 @@
             "url": "https://github.com/iworld99/survey-builder"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "em_survey/mypackagesurvey7": "dev-main"
-    }
+    "minimum-stability": "dev"
+   
 }
