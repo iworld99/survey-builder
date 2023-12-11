@@ -23,6 +23,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "em-aamir/signup_package": "dev-main"
+        "em_survey/mypackagesurvey7": "dev-main"
     }
 }
