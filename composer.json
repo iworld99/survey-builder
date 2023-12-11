@@ -2,8 +2,7 @@
     "name": "em_survey/mypackagesurvey7",
     "description": "Description of mypackagesurvey7",
      "type": "composer-plugin",
-    "license": "MIT",
-    "version": "1.0.0",
+    "license": "MIT",   
     "autoload": {
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
