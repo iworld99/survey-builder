@@ -1,6 +1,6 @@
 {
-    "name": "em_survey/mypackagesurvey6",
-    "description": "Description of mypackagesurvey6",
+    "name": "em_survey/mypackagesurvey7",
+    "description": "Description of mypackagesurvey7",
      "type": "composer-plugin",
     "license": "MIT",
     "version": "v1.0",
@@ -14,15 +14,15 @@
             "name": "Naiyar",
             "email": "naiyar@enterpisemonkey.com"
         }
-    ],
-    "minimum-stability": "dev",
+    ],   
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/em-naiyar/survey-builder.git"
+            "url": "https://github.com/iworld99/survey-builder.git"
         }
     ],
-     "require": {
-        "php": ">=7.4"
+    "minimum-stability": "dev",
+    "require": {
+        "em-aamir/signup_package": "dev-main"
     }
 }
