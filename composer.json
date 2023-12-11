@@ -22,7 +22,7 @@
      "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {       
-       "emsurveybuilder/surveys": "dev-main"
+       "emsurveybuilder/surveyerews": "dev-main"
     }
    
 }
