@@ -1,5 +1,5 @@
 {
-    "name": "em_survey/mypackagesurvey7",
+    "name": "em_survey/survey",
     "description": "Description of mypackagesurvey7",
     "version": "1.0.0",
     "type": "library",
@@ -23,7 +23,7 @@
     ],
      "minimum-stability": "dev",
     "require": {
-        "em_survey/mypackagesurvey7": "dev-main"
+        "em_survey/survey": "dev-main"
     }    
    
 }
