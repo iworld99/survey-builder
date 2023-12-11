@@ -19,5 +19,6 @@
             "url": "https://github.com/iworld99/survey-builder"
         }
     ],
-     "minimum-stability": "dev"
+     "minimum-stability": "dev",
+     "require": {}
 }
