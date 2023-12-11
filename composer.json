@@ -1,5 +1,5 @@
 {
-    "name": "emsurveybuilder/surveyerews",     
+    "name": "survey-builder/survey-builder",     
     "type": "library",
     "license": "MIT",    
     "autoload": {
@@ -22,7 +22,7 @@
      "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {       
-       "emsurveybuilder/surveyerews": "dev-main"
+       "survey-builder/survey-builder": "dev-main"
     }
    
 }
