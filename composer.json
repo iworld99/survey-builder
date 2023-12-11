@@ -1,6 +1,5 @@
 {
-    "name": "em_survey/survey",
-    "description": "Description of mypackagesurvey7",
+    "name": "em_survey/mysurvey",  
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",   
@@ -23,7 +22,7 @@
     ],
      "minimum-stability": "dev",
     "require": {
-        "em_survey/survey": "dev-main"
+        "em_survey/mysurvey": "dev-main"
     }    
    
 }
