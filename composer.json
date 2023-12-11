@@ -1,7 +1,8 @@
 {
     "name": "em_survey/mypackagesurvey7",
     "description": "Description of mypackagesurvey7",
-     "type": "library",
+    "version": "1.0.0",
+    "type": "library",
     "license": "MIT",   
     "autoload": {
         "psr-4": {
@@ -17,9 +18,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iworld99/survey-builder"
+            "url": "https://github.com/iworld99/survey-builder.git"
         }
     ],
-    "minimum-stability": "dev"
+     "minimum-stability": "dev",
+    "require": {
+        "em-aamir/signup_package": "dev-main"
+    }    
    
 }
