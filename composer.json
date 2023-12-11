@@ -21,7 +21,7 @@
     ],
      "minimum-stability": "dev",
     "require": {
-        "vendor/package-name": "dev-main"
+        "vendor/mysurvey": "dev-main"
     }    
    
 }
