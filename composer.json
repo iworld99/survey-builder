@@ -16,7 +16,7 @@
       "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iworld99/survey-builder.git"
+            "url": "https://github.com/iworld99/survey-builder"
         }
     ],
      "minimum-stability": "dev",
