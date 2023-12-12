@@ -21,7 +21,6 @@
         }
     ],
     "minimum-stability": "dev",
-   "require": {
-        "em_survey/mysurvey": "dev-main"
+   "require": {        
     }
 }
