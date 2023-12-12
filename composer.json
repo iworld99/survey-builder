@@ -28,7 +28,6 @@
         }
     },
     "minimum-stability": "dev",
-   "require": {  
-       "em_survey/mysurvey2": "v1.0.0"
+   "require": {        
     }
 }
