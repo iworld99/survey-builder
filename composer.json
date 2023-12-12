@@ -2,7 +2,7 @@
     "name": "em_survey/mysurvey",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "autoload": {
         "psr-4": {
             "Surveybuilders\\Survey\\": "src/"
@@ -17,9 +17,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iworld99/survey-builder"
+            "url": "https://github.com/iworld99/survey-builder.git"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+   "require": {
+        "em_survey/mysurvey": "dev-main"
+    }
 }
