@@ -20,6 +20,13 @@
             "url": "https://github.com/iworld99/survey-builder.git"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Surveybuilders\\Survey\\SurveybuilderServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
    "require": {        
     }
