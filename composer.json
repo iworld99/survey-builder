@@ -20,5 +20,7 @@
         }
     ],
      "minimum-stability": "dev",
-     "require": {}
+     "require": {
+         "em_survey/mysurvey": "^1.0.0.0"
+     }
 }
